@@ -23,4 +23,4 @@ Ticketfy is a modern, responsive support ticket system built with React, TypeScr
 If you encounter any issues or have questions:
 - Check our [FAQ](./FAQ) page
 - Open an [issue](https://github.com/Pymmdrza/ticketfy/issues)
-- Contact us at support@ticketfy.com
+- Contact us at mmdrza@usa.com
