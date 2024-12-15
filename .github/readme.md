@@ -1,8 +1,6 @@
 # Ticketfy - Modern Support Ticket System
 
-<img src="./ticketfy-header.webp" title="TicketFy - Modern 
-Dashboard Ui" alt="TicketFy - Modern 
-Dashboard Ui" style="border: 1px solid #cacaca; border-radius: 10px; margin: 5px; object-position: center;" height="10%" width="auto">
+<img src="./ticketfy-header.webp" title="TicketFy - Modern Dashboard Ui" alt="TicketFy - Modern Dashboard Ui" width="auto">
 
 A modern, responsive, and feature-rich support ticket management system built with React, TypeScript, and Tailwind CSS. Ticketfy provides a seamless experience for both users and administrators in managing support requests.
 
