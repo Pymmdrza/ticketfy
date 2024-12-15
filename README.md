@@ -100,22 +100,6 @@ VITE_APP_VERSION=1.0.0
 - Safari (latest)
 - Edge (latest)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. Open a Pull Request
 
 ## 📄 License
 
