@@ -2,7 +2,14 @@
 
 <img src="./ticketfy-header.webp" title="TicketFy - Modern Dashboard Ui" alt="TicketFy - Modern Dashboard Ui" width="auto">
 
+---
+
 A modern, responsive, and feature-rich support ticket management system built with React, TypeScript, and Tailwind CSS. Ticketfy provides a seamless experience for both users and administrators in managing support requests.
+
+  <a href="https://ticketfy.netlify.app/" title="enter to demo">
+    <center><img src="./ticketfy_ui.webp" alt="ticketfy ui - screenshot from dashboard" width="60%" /></center>
+  </a>
+
 
 ## ✨ Features
 
@@ -21,13 +28,13 @@ A modern, responsive, and feature-rich support ticket management system built wi
 
 ## 🚀 Quick Start
 
-### One-Command Setup (Linux)
+### ⚙️ One-Command Setup (Linux)
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/Pymmdrza/ticketfy/main/setup.sh | sh
 ```
 
-### Manual Installation
+### ⚙️ Manual Installation
 
 1. Clone the repository:
 ```bash
@@ -104,7 +111,7 @@ VITE_APP_VERSION=1.0.0
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+## 🛟 Support
 
 - Documentation: [docs.ticketfy.com](https://docs.ticketfy.com)
 - Issues: [GitHub Issues](https://github.com/Pymmdrza/ticketfy/issues)
@@ -112,4 +119,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Credits
 
-Created and maintained by [Pymmdrza](https://github.com/Pymmdrza).
+Created and maintained by [**PyMmdrza**](https://github.com/Pymmdrza).
+
+Programmer Official Website : [**Mmdrza.Com**](https://mmdrza.com 'professional programming with mmdrza')
+
+## 🎁 Donate
+
+
+Bitcoin Wallet :
+
+```js
+1MMDRZAcM6dzmdMUSV8pDdAPDFpwzve9Fc
+```
+
+
