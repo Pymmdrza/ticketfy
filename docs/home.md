@@ -4,15 +4,14 @@ Welcome to the official wiki for Ticketfy - a modern support ticket management s
 
 ## Quick Navigation
 
-- [Getting Started](./Getting-Started)
-- [Features Overview](./Features)
-- [Installation Guide](./Installation)
-- [User Guide](./User-Guide)
-- [Admin Guide](./Admin-Guide)
-- [Developer Guide](./Developer-Guide)
-- [API Documentation](./API-Documentation)
-- [Contributing Guidelines](./Contributing)
-- [FAQ](./FAQ)
+- [Getting Started](./installation#quick-installation 'Getting Started')
+- [Features Overview](./features#features-overview 'Features Overview')
+- [Installation Guide](./installation 'Installation Guide')
+- [Manual Installation](./installation#manual-installation 'Manual Installation')
+- [User Guide](.[/User-Guide](./installation#step-by-step-guide 'User Guide')
+- [Admin Guide](./features#admin-features 'Administrator Guide')
+- [Contributing Guidelines](./contributing 'Contributing Guidelines')
+- [FAQ](./FAQ 'FAQ')
 
 ## About Ticketfy
 
